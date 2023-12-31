@@ -1,0 +1,10 @@
+- Methodology
+- Cambiar lo del Test
+- Modelo 1: KNN
+	- Hyperparameter tuning: 
+		- ejecutar los 3 métodos
+		- revisar comentarios y texto markdown según resultados finales
+	- Redactar conclusiones
+
+- Modelo 2: Decision Tree
+	- Hyperparameter tuning:
